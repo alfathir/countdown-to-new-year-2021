@@ -16,7 +16,7 @@ body, html {
   height: 100%; 
 
   /* The image used as background - Photo by Ioann Peshkov on Unsplash */
-  background-image: url("../images/ioann-peshkov-Eo0aGGY3PWI-unsplash.jpg");
+  background-image: url("https://unsplash.com/photos/h2GVKdsupBU/download?force=true");
   opacity: 1; /* or 0.9 */
 
   /* Center and scale the image nicely */
